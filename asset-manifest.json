@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/base-apparel/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/base-apparel/static/js/main.c909c865.chunk.js",
+    "main.js.map": "/base-apparel/static/js/main.c909c865.chunk.js.map",
+    "runtime-main.js": "/base-apparel/static/js/runtime-main.49211b21.js",
+    "runtime-main.js.map": "/base-apparel/static/js/runtime-main.49211b21.js.map",
+    "static/js/2.db197279.chunk.js": "/base-apparel/static/js/2.db197279.chunk.js",
+    "static/js/2.db197279.chunk.js.map": "/base-apparel/static/js/2.db197279.chunk.js.map",
+    "index.html": "/base-apparel/index.html",
+    "precache-manifest.69786edb7ab10db33f17b3f6c4a74972.js": "/base-apparel/precache-manifest.69786edb7ab10db33f17b3f6c4a74972.js",
+    "service-worker.js": "/base-apparel/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/base-apparel/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.db197279.chunk.js.LICENSE.txt": "/base-apparel/static/js/2.db197279.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.svg": "/base-apparel/static/media/bg-pattern-desktop.9a992951.svg",
+    "static/media/hero-desktop.jpg": "/base-apparel/static/media/hero-desktop.003b0c97.jpg",
+    "static/media/hero-mobile.jpg": "/base-apparel/static/media/hero-mobile.1d55799a.jpg",
+    "static/media/icon-arrow.svg": "/base-apparel/static/media/icon-arrow.69950c2d.svg",
+    "static/media/icon-error.svg": "/base-apparel/static/media/icon-error.33780997.svg",
+    "static/media/logo.svg": "/base-apparel/static/media/logo.877543ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49211b21.js",
+    "static/js/2.db197279.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c909c865.chunk.js"
+  ]
+}
