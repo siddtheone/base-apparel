@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/base-apparel/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/base-apparel/static/js/main.c909c865.chunk.js",
-    "main.js.map": "/base-apparel/static/js/main.c909c865.chunk.js.map",
+    "main.js": "/base-apparel/static/js/main.be78c77a.chunk.js",
+    "main.js.map": "/base-apparel/static/js/main.be78c77a.chunk.js.map",
     "runtime-main.js": "/base-apparel/static/js/runtime-main.49211b21.js",
     "runtime-main.js.map": "/base-apparel/static/js/runtime-main.49211b21.js.map",
     "static/js/2.db197279.chunk.js": "/base-apparel/static/js/2.db197279.chunk.js",
     "static/js/2.db197279.chunk.js.map": "/base-apparel/static/js/2.db197279.chunk.js.map",
     "index.html": "/base-apparel/index.html",
-    "precache-manifest.69786edb7ab10db33f17b3f6c4a74972.js": "/base-apparel/precache-manifest.69786edb7ab10db33f17b3f6c4a74972.js",
+    "precache-manifest.054a08ddab4f3f7c401c38a2d7b07146.js": "/base-apparel/precache-manifest.054a08ddab4f3f7c401c38a2d7b07146.js",
     "service-worker.js": "/base-apparel/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/base-apparel/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.db197279.chunk.js.LICENSE.txt": "/base-apparel/static/js/2.db197279.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.49211b21.js",
     "static/js/2.db197279.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c909c865.chunk.js"
+    "static/js/main.be78c77a.chunk.js"
   ]
 }
