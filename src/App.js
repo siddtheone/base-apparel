@@ -26,7 +26,7 @@ const GlobalStyle = createGlobalStyle`
     max-width: min(100%, 1440px);
     margin: 0 auto;
     background: url(${mainBG});
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding-top: 1px;
   }
